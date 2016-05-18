@@ -1,7 +1,7 @@
 ---
 description: 'Millennials, young adults between the ages of 18 and 25, face new and daunting challenges. Uncertainty, confusion, a fragile economy, and rising personal debt occasion understandable anxiety. Is this the right time in life to think long and hard about questions of faith, meaning, and purpose?'
-dateModified: '2016-05-18T12:49:19.359Z'
-datePublished: '2016-05-18T12:49:19.443Z'
+dateModified: '2016-05-18T12:48:00.060Z'
+datePublished: '2016-05-18T14:44:38.577Z'
 title: BONHOEFFER AND MILLENNIAL ANXIETY
 author: []
 starred: false
