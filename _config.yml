@@ -1,0 +1,14 @@
+layout_spectrum: 0.35588471847586334
+typography_spectrum: 0.5672281237784773
+color:
+  brandStrength: 0.9837379953823984
+  lightness: 0.8824227035511285
+  saturation: 0.22699213959276676
+  rhythmicContrast: 0.8678928620647639
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: markhusbands
