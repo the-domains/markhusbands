@@ -1,14 +1,14 @@
-layout_spectrum: 0.35588471847586334
-typography_spectrum: 0.5672281237784773
+layout_spectrum: 0.7644735022913665
+typography_spectrum: 0.4583808344323188
 color:
-  brandStrength: 0.9837379953823984
-  lightness: 0.8824227035511285
-  saturation: 0.22699213959276676
-  rhythmicContrast: 0.8678928620647639
+  brandStrength: 0.6939694657921791
+  lightness: 0.12515956652350724
+  saturation: 0.6920835706405342
+  rhythmicContrast: 0.19422860676422715
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: "Mark's Portfolio"
