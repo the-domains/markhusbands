@@ -1,4 +1,3 @@
-layout_spectrum: 0.8575296020135283
 typography_spectrum: 0.14265362033620477
 color:
   brandStrength: 0.3790606730617583
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-name: Mark's Portfolio
+layout_spectrum: 0.8575296020135283
+name: Portfolio
+title: Mark Husbands
 description: 'Vice President for Academic Affairs, Northwestern College'
